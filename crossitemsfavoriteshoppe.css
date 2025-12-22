@@ -1,4 +1,4 @@
-div.crossitems{}
+div.crossitems{display:none}
 span.gallery1{}
 span.gallery2{}
 span.gallery3{}
@@ -19,6 +19,7 @@ span.gallery17{display:none}
 span.gallery18{display:none}
 span.gallery19{display:none}
 span.gallery20{display:none}
+
 
 
 
